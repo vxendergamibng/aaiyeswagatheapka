@@ -1,0 +1,5 @@
+{
+	"ip":"opgamerisnotlives.aternos.me",
+	"port": "39145",
+	"name": "opgamer"
+}
